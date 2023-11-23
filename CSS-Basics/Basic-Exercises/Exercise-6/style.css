@@ -1,0 +1,32 @@
+.p,
+.small-p {
+    color: red;
+}
+
+.p {
+    font-size: 26px;
+}
+
+.small-p {
+    font-size: 14px;
+}
+.button{
+    background: white;
+    font-size: 26px;
+}
+.confirm{
+    background: green;
+    color: white;
+    font-weight: bold;
+}
+
+
+.text{
+    color: green;
+    font-size: 26px;
+}
+
+.child{
+    color: red;
+    font-size: 14px;
+}
